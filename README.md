@@ -1,6 +1,6 @@
 # etl_project
 
 Agust Erlingsson <br>
-Eric Phieler
-Nicole Rothfield
-Matthew Terhune
+Eric Phieler <br>
+Nicole Rothfield <br>
+Matthew Terhune <br>
